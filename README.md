@@ -5,6 +5,8 @@ The goal is to build a travel guide for cities. We start out pretty simple and e
 ## Ideas
 
 - list all the locations
+- search locations by name
+- filter the search by labels
 - show images
 - split into a list page and detail page
 - add reviews
